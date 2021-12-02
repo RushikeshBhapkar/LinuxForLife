@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "no.finn.android.dev",
+    "sha256_cert_fingerprints":
+    ["85:E7:45:34:6E:EC:B8:98:1F:51:12:C1:B0:2B:8F:F7:74:BC:25:04:E7:EE:AA:74:E4:65:41:F6:2C:02:FC:C5"]
+  }
+}]
